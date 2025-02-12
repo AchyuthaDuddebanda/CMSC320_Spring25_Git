@@ -1,3 +1,8 @@
+Q1: Why might we consider using Git?
+
+Answer: 
+Using git is important because it allows us to keep track of all the changes of a project and revert back to any older version of the program if necessary. It also allows others to work together easily on programming projects as git keeps track of all of the changes pushed into a repository and allows others to explain the changes to the codebase easily. Overall, git is an invaluable tool for solo and large-scale coding projects.
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: 
